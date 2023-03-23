@@ -9,10 +9,6 @@ The front-end will be HTML pages with Java Script for client side validation whe
 be Apache. To start working on this project environment required is a server having Apache as web server, MySql as database and LAMP(Linux,Apache,MySql and PHP ) as development environment
 
 
-demo link- https://youtu.be/r2PZwmBCpOw
-
-Download link- https://projectworlds.in/free-projects/php-projects/college-management-system-project-in-php/
-
 HOW TO DEPLOY LOCALLY.
 
 Step 1: In your web browser, go to
