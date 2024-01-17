@@ -10,7 +10,7 @@ be Apache. To start working on this project environment required is a server hav
 
 
 HOW TO DEPLOY LOCALLY.
-
+ 
 Step 1: In your web browser, go to
 http://www.apachefriends.org/en/xampp.html
 
