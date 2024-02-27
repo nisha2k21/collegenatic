@@ -9,7 +9,7 @@ The front-end will be HTML pages with Java Script for client side validation whe
 be Apache. To start working on this project environment required is a server having Apache as web server, MySql as database and LAMP(Linux,Apache,MySql and PHP ) as development environment
 
 
-HOW TO DEPLOY LOCALLY.
+HOW TO DEPLOY LOCALLY. 
  
 Step 1: In your web browser, go to
 http://www.apachefriends.org/en/xampp.html
